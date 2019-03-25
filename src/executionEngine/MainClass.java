@@ -86,6 +86,7 @@ public class MainClass {
 			wait = new WebDriverWait(driver, 180);			
 		}catch(Exception e) {
 			System.out.println("Exception occured instantiating driver. Aborting..");
+			e.printStackTrace();
 			System.exit(1);
 		}
 
