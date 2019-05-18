@@ -6,3 +6,4 @@ How to use:
 2. Download chrome driver from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
 3. Download the jar file from releases section: https://github.com/sfdcnoob/SFPermissionsAutomate/releases/download/3.0/PermissionsAutomator.jar
 4. Download config.xlsx from releases section and keep it in the same directory as jar file. https://github.com/sfdcnoob/SFPermissionsAutomate/releases/download/3.0/config.xlsx 
+5. To use this enhanced profile and permissionset view must be disabled.
